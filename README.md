@@ -1,10 +1,10 @@
-# Fin_Py-8.MLClassification
+# Fin_Py-11.MLClassification
 
 ## Overview
 
-This repository fulfills the Unit 8 homework of the FinTech Bootcamp at Northwestern University.
+This repository fulfills the Unit 11 homework of the FinTech Bootcamp at Northwestern University.
 
-Unit 8 falls under 'Algorithms, Statistics and Machine Learning'. 
+Unit 11 falls under 'Algorithms, Statistics and Machine Learning'. 
 
 ## Directory
 
