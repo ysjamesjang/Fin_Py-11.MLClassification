@@ -4,7 +4,7 @@
 
 This repository fulfills the Unit 11 homework of the FinTech Bootcamp at Northwestern University.
 
-Unit 11 falls under 'Algorithms, Statistics and Machine Learning'. 
+Unit 11 Classification Machine Learning Algorithms falls under 'Algorithms, Statistics and Machine Learning'. 
 
 ## Directory
 
